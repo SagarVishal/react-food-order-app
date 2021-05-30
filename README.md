@@ -1,1 +1,3 @@
-# react-food-order-app
+# React-food-order-app
+
+A Food order app using react
